@@ -602,7 +602,7 @@ footer .text span:hover{
     .navbar-menu{
 position: absolute;
 top: 100%;
-right: 0;
+right: 30px;
 width: 50%;
 padding: 1rem 3rem;
 background:rgba(0, 0, 0, 0.8);
@@ -807,6 +807,7 @@ footer {
   }
 
 }
+
 
 
 
